@@ -1,0 +1,16 @@
+---
+title: "ACH4573 Probabilidade -- Análise Descritiva"
+author: "Marcelo Ventura Freire"
+date: "13 de agosto de 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Análise Descritiva
+
+## Análise Descritiva
+
+### Análise Descritiva
